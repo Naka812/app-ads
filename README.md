@@ -18,7 +18,7 @@ Nosso objetivo é entregar diversão de qualidade, feita por quem ama criar mund
 
 Nosso arquivo `app-ads.txt` está disponível no link abaixo, em conformidade com as exigências da Google:
 
-👉 [Clique aqui para acessar](https://naka812.github.io/app-ads/app-ads.txt)
+👉 [Clique aqui para acessar](https://naka812.github.io/app-ads.txt)
 
 ---
 
