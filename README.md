@@ -1,27 +1,24 @@
 # 🎮 GS Studios — Jogos feitos com paixão!
 
-Seja bem-vindo à página oficial da **GS Studios**!
+Seja bem-vindo à página oficial do desenvolvedor **Naka**!
 
-Aqui você encontra informações sobre nossos jogos, projetos em andamento e links importantes como o `app-ads.txt`, usado para monetização via AdMob e exigido pela Google Play Store.
-
----
-
-## 🕹️ Sobre nosso jogo
-
-Estamos desenvolvendo um jogo mobile com foco em **ação, sobrevivência e gráficos retrô**, trazendo uma experiência única para os fãs de jogos indie.
-
-Nosso objetivo é entregar diversão de qualidade, feita por quem ama criar mundos virtuais!
+Aqui você encontra informações sobre meus jogos e projetos em andamento.
 
 ---
 
-## 📄 app-ads.txt
+## 🕹️ Sobre o jogo: Ultra Pixel Survive
+![](img/ultrapixelsurvive.png)
+**Ultra Pixel Survive** é um jogo que mistura RPG de ação e sobrevivência em um mundo retrô com arte em pixel. Desenvolvido pela GS Studios, o jogo desafia os jogadores a sobreviver o máximo de tempo possível em um ambiente hostil e cheio de perigos.
 
-Nosso arquivo `app-ads.txt` está disponível no link abaixo, em conformidade com as exigências da Google:
+Você controla heróis com habilidades únicas, coleta recursos naturais como madeira, pedra e minérios, constrói defesas para proteger sua vila e enfrenta ondas de inimigos a cada noite. Além disso, é possível explorar masmorras subterrâneas, caçar, cozinhar e desbloquear novos personagens.
 
-👉 [Clique aqui para acessar](https://naka812.github.io/app-ads.txt)
+### ✨ Principais recursos:
 
----
+- 🏠 Construção e evolução de base  
+- 🛡️ Defesa da vila com torres e armadilhas  
+- 🌾 Agricultura, caça e culinária  
+- 🔓 Sistema de progressão com heróis únicos  
+- 🐲 Batalhas contra chefes em um mundo de fantasia épica  
+- 🧩 Estilo visual em pixel art nostálgico  
 
-Sinta-se à vontade para acompanhar o progresso e nos apoiar! 🚀
-
-**GS Studios** — Jogando junto com você.
+Se você curte jogos indie com desafio e personalidade, **Ultra Pixel Survive** é feito pra você.
