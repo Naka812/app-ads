@@ -9,13 +9,27 @@
 
   <style>
     body {
-      text-align: center;
       font-family: 'Press Start 2P', monospace;
+      color: #fff;
+      background-image: url('img/nakagamedev_background.png'); /* Caminho para a imagem */
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      margin: 0;
+      padding: 0;
+    }
+
+    .content {
+      text-align: center;
       max-width: 800px;
       margin: 0 auto;
       padding: 40px;
-      background-color: #111;
-      color: #fff;
+      background-color: rgba(0, 0, 0, 0.7); /* Camada escura translúcida */
+      box-shadow: 0 0 20px rgba(0,0,0,0.5); /* Sombra leve pra destacar ainda mais */
+      border-radius: 16px; /* Cantos arredondados */
+      margin-top: 40px;
+      margin-bottom: 40px;
     }
 
     img {
@@ -36,29 +50,31 @@
 </head>
 <body>
 
-  <h1>🎮 Naka Gamedev — Jogos feitos por um jogador!</h1>
+  <div class="content">
+    <h1>🎮 Naka Gamedev — Jogos feitos por um jogador!</h1>
 
-  <p>Seja bem-vindo à página oficial do desenvolvedor <strong>Naka</strong>!</p>
-  <p>Aqui você encontra informações sobre meus jogos e projetos em andamento.</p>
+    <p>Seja bem-vindo à página oficial do desenvolvedor <strong>Naka</strong>!</p>
+    <p>Aqui você encontra informações sobre meus jogos e projetos em andamento.</p>
 
-  <hr>
+    <hr>
 
-  <h2>🕹️ Sobre o jogo: Ultra Pixel Survive</h2>
-  <img src="img/ultrapixelsurvive_title.png" width="600" alt="Ultra Pixel Survive" />
+    <h2>🕹️ Sobre o jogo: Ultra Pixel Survive</h2>
+    <img src="img/ultrapixelsurvive_title.png" width="600" alt="Ultra Pixel Survive" />
 
-  <p><strong>Ultra Pixel Survive</strong> é um jogo que mistura RPG de ação e sobrevivência em um mundo retrô com arte em pixel...</p>
+    <p><strong>Ultra Pixel Survive</strong> é um jogo que mistura RPG de ação e sobrevivência em um mundo retrô com arte em pixel...</p>
 
-  <h3>✨ Principais recursos:</h3>
-  <ul>
-    <li>🏠 Construção e evolução de base</li>
-    <li>🛡️ Defesa da vila com torres e armadilhas</li>
-    <li>🌾 Agricultura, caça e culinária</li>
-    <li>🔓 Sistema de progressão com heróis únicos</li>
-    <li>🐲 Batalhas contra chefes em um mundo de fantasia épica</li>
-    <li>🧩 Estilo visual em pixel art nostálgico</li>
-  </ul>
+    <h3>✨ Principais recursos:</h3>
+    <ul>
+      <li>🏠 Construção e evolução de base</li>
+      <li>🛡️ Defesa da vila com torres e armadilhas</li>
+      <li>🌾 Agricultura, caça e culinária</li>
+      <li>🔓 Sistema de progressão com heróis únicos</li>
+      <li>🐲 Batalhas contra chefes em um mundo de fantasia épica</li>
+      <li>🧩 Estilo visual em pixel art nostálgico</li>
+    </ul>
 
-  <p>Se você curte jogos indie com desafio e personalidade, <strong>Ultra Pixel Survive</strong> é feito pra você.</p>
+    <p>Se você curte jogos indie com desafio e personalidade, <strong>Ultra Pixel Survive</strong> é feito pra você.</p>
+  </div>
 
 </body>
 </html>
