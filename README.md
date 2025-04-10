@@ -7,7 +7,7 @@ Aqui você encontra informações sobre meus jogos e projetos em andamento.
 ---
 
 ## 🕹️ Sobre o jogo: Ultra Pixel Survive
-![](naka812.githb.io/img/ultrapixelsurvive_title.png)
+![](img/ultrapixelsurvive_title.png)
 **Ultra Pixel Survive** é um jogo que mistura RPG de ação e sobrevivência em um mundo retrô com arte em pixel. Desenvolvido pela GS Studios, o jogo desafia os jogadores a sobreviver o máximo de tempo possível em um ambiente hostil e cheio de perigos.
 
 Você controla heróis com habilidades únicas, coleta recursos naturais como madeira, pedra e minérios, constrói defesas para proteger sua vila e enfrenta ondas de inimigos a cada noite. Além disso, é possível explorar masmorras subterrâneas, caçar, cozinhar e desbloquear novos personagens.
