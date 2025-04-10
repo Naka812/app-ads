@@ -1,5 +1,3 @@
-<center>
-
 # 🎮 Naka Gamedev — Jogos feitos por um jogador!
 
 Seja bem-vindo à página oficial do desenvolvedor **Naka**!
@@ -25,5 +23,3 @@ Você controla heróis com habilidades únicas, coleta recursos naturais como ma
 - 🧩 Estilo visual em pixel art nostálgico  
 
 Se você curte jogos indie com desafio e personalidade, **Ultra Pixel Survive** é feito pra você.
-
-</center>
